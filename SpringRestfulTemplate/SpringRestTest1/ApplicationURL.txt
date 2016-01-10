@@ -1,0 +1,2 @@
+http://localhost:9999/SpringRestTest1/springcontent?Accept=application/json
+http://localhost:9999/SpringRestTest1/messages/2
